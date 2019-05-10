@@ -1,22 +1,22 @@
 # Weeds Detection and Segmentation
 This repository contains the code for my OUR(Opportunities for Undergraduate Research) project at Shiv Nadar University under the supervision of Prof. Jyoti Singh Kirar, Professor at Dept. of Computer Science, Shiv Nadar University. 
 
-You can view the final project report here: ![Final Report](https://docs.google.com/document/d/1yffPnYz8fYgYJVYeD-dMnylnXalV5GknPbtPAAnE6ro/edit#heading=h.nj23sjpj5u97)
+You can view the final project report here: [Final Report](https://docs.google.com/document/d/1yffPnYz8fYgYJVYeD-dMnylnXalV5GknPbtPAAnE6ro/edit#heading=h.nj23sjpj5u97)
 
 ---
 
 # The Dataset
-I used the ![Open Sprayer Images Dataset](https://www.kaggle.com/gavinarmstrong/open-sprayer-images) on Kaggle for the project. I used this dataset with some data augmentation for the purpose of Weeds Classification.
-For the Weeds Segmentation task, I created a custom dataset using the same dataset by hand painting binary masks using an Gimp - An image manipulation tool. You can download this dataset ![here](https://drive.google.com/open?id=1vbw6itGLk59haxVBjNlXsnOmAbbwlAZy)
+I used the [Open Sprayer Images Dataset](https://www.kaggle.com/gavinarmstrong/open-sprayer-images) on Kaggle for the project. I used this dataset with some data augmentation for the purpose of Weeds Classification.
+For the Weeds Segmentation task, I created a custom dataset using the same dataset by hand painting binary masks using an Gimp - An image manipulation tool. You can download this dataset [here](https://drive.google.com/open?id=1vbw6itGLk59haxVBjNlXsnOmAbbwlAZy)
 
 ---
 
 # Implementing the Code
 
-* Download the ![Open Sprayer Images Dataset](https://www.kaggle.com/gavinarmstrong/open-sprayer-images) and rename it to 'Open_Sprayer_Images_Classification' and add a folder named 'docks_augmented' inside that folder.
-* Download the ![Segmentation Dataset](https://drive.google.com/open?id=1vbw6itGLk59haxVBjNlXsnOmAbbwlAZy) and place it inside the 'Dataset' folder.
-* Download the ![Trained Weights](https://drive.google.com/open?id=1tjwl0oQxIAkUF_08Qa37WDA3Dc1HtV7x) for the CNN and place it in the 'weights' folder in the 'Code' folder.
-* Download the ![Trained Models](https://drive.google.com/open?id=142H87gEpVTG3RgJWGKnstCG5531xDoCF) and place it in the 'models' folder in the 'Code' folder.
+* Download the [Open Sprayer Images Dataset](https://www.kaggle.com/gavinarmstrong/open-sprayer-images) and rename it to 'Open_Sprayer_Images_Classification' and add a folder named 'docks_augmented' inside that folder.
+* Download the [Segmentation Dataset](https://drive.google.com/open?id=1vbw6itGLk59haxVBjNlXsnOmAbbwlAZy) and place it inside the 'Dataset' folder.
+* Download the [Trained Weights](https://drive.google.com/open?id=1tjwl0oQxIAkUF_08Qa37WDA3Dc1HtV7x) for the CNN and place it in the 'weights' folder in the 'Code' folder.
+* Download the [Trained Models](https://drive.google.com/open?id=142H87gEpVTG3RgJWGKnstCG5531xDoCF) and place it in the 'models' folder in the 'Code' folder.
 * Run the Jupyter Notebook in the 'Code' Folder
 
 ---
