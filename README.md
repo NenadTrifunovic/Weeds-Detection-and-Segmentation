@@ -1,8 +1,6 @@
 # Weeds Detection and Segmentation
 This repository contains the code for my OUR(Opportunities for Undergraduate Research) project at Shiv Nadar University under the supervision of Prof. Jyoti Singh Kirar, Professor at Dept. of Computer Science, Shiv Nadar University. 
 
-You can view the final project report here: [Final Report](https://docs.google.com/document/d/1yffPnYz8fYgYJVYeD-dMnylnXalV5GknPbtPAAnE6ro/edit#heading=h.nj23sjpj5u97)
-
 ---
 
 # The Dataset
